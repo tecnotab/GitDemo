@@ -1,2 +1,10 @@
+
+hi my name is raj
+
+public class new class{
+
 public statuc void main(String [] args ){
 }
+
+}
+
