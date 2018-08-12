@@ -1,0 +1,2 @@
+public statuc void main(String [] args ){
+}
